@@ -1,0 +1,12 @@
+flask
+streamlit
+pandas
+PyPDF2
+requests
+python-docx
+bs4 
+dicttoxml 
+xml.dom.minidom
+xmltodict
+unstructured
+bert-score
